@@ -1,0 +1,12 @@
+{
+    "name": "teq-lcm-images",
+    "authors": [
+        {
+            "name": "Jean-Pierre Gassin",
+            "email": "jeanpierre.gassin@xcommedia.com.au"
+        }
+    ],
+    "require": {
+        "symfony/http-foundation": "^3.0"
+    }
+}
